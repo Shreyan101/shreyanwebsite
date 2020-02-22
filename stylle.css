@@ -3,9 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+ 
 
 body{
-   background: url("waters.jpeg");
+   background:url("waters.jpeg");
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 
 .app {
